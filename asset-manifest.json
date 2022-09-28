@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nft-marketplace.github.io/static/css/main.6e1089bc.chunk.css",
+    "main.js": "/nft-marketplace.github.io/static/js/main.56a40382.chunk.js",
+    "main.js.map": "/nft-marketplace.github.io/static/js/main.56a40382.chunk.js.map",
+    "runtime-main.js": "/nft-marketplace.github.io/static/js/runtime-main.036cc98c.js",
+    "runtime-main.js.map": "/nft-marketplace.github.io/static/js/runtime-main.036cc98c.js.map",
+    "static/js/2.ef72c9c9.chunk.js": "/nft-marketplace.github.io/static/js/2.ef72c9c9.chunk.js",
+    "static/js/2.ef72c9c9.chunk.js.map": "/nft-marketplace.github.io/static/js/2.ef72c9c9.chunk.js.map",
+    "static/js/3.4124a026.chunk.js": "/nft-marketplace.github.io/static/js/3.4124a026.chunk.js",
+    "static/js/3.4124a026.chunk.js.map": "/nft-marketplace.github.io/static/js/3.4124a026.chunk.js.map",
+    "index.html": "/nft-marketplace.github.io/index.html",
+    "static/css/main.6e1089bc.chunk.css.map": "/nft-marketplace.github.io/static/css/main.6e1089bc.chunk.css.map",
+    "static/js/2.ef72c9c9.chunk.js.LICENSE.txt": "/nft-marketplace.github.io/static/js/2.ef72c9c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.036cc98c.js",
+    "static/js/2.ef72c9c9.chunk.js",
+    "static/css/main.6e1089bc.chunk.css",
+    "static/js/main.56a40382.chunk.js"
+  ]
+}
